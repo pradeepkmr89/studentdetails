@@ -1,0 +1,1 @@
+[10-Sep-2021 10:13:13 UTC] PHP Fatal error:  Cannot use App\Models\FilterSetting as FilterSetting because the name is already in use in /home2/gasssxac/markitiers.in/codee/app/Http/Controllers/Api/DetailsApiController.php on line 13
